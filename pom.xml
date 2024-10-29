@@ -46,42 +46,6 @@
             <version>8.6.3</version>
             <scope>test</scope>
         </dependency>
-
-		<dependency>
-			<groupId>org.junit.jupiter</groupId>
-			<artifactId>junit-jupiter-api</artifactId>
-			<scope>test</scope>
-		</dependency>
-
-		<dependency>
-			<groupId>io.camunda</groupId>
-			<artifactId>zeebe-process-test-assertions</artifactId>
-			<scope>test</scope>
-		</dependency>
-
-		<dependency>
-			<groupId>io.camunda</groupId>
-			<artifactId>zeebe-process-test-extension</artifactId>
-			<scope>test</scope>
-		</dependency>
-
-		<dependency>
-			<groupId>io.camunda</groupId>
-			<artifactId>zeebe-client-java</artifactId>
-			<scope>test</scope>
-		</dependency>
-
-		<dependency>
-			<groupId>io.camunda</groupId>
-			<artifactId>zeebe-process-test-api</artifactId>
-			<scope>test</scope>
-		</dependency>
-
-		<dependency>
-			<groupId>org.slf4j</groupId>
-			<artifactId>slf4j-simple</artifactId>
-			<scope>test</scope>
-		</dependency>
 	</dependencies>
 
 	<build>
